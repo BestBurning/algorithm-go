@@ -1,10 +1,10 @@
-package com.diyishuai.algorithm;
+package com.di1shuai.algorithm;
 
-import com.diyishuai.algorithm.insert.BinaryInsertSort;
-import com.diyishuai.algorithm.insert.InsertSort;
-import com.diyishuai.algorithm.insert.ShellSort;
-import com.diyishuai.algorithm.swap.BubbleSort;
-import com.diyishuai.algorithm.swap.QuickSort;
+import com.di1shuai.algorithm.insert.BinaryInsertSort;
+import com.di1shuai.algorithm.insert.InsertSort;
+import com.di1shuai.algorithm.insert.ShellSort;
+import com.di1shuai.algorithm.swap.BubbleSort;
+import com.di1shuai.algorithm.swap.QuickSort;
 
 /**
  * @author: Bruce Zhu

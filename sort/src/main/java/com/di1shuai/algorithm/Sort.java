@@ -1,4 +1,4 @@
-package com.diyishuai.algorithm;
+package com.di1shuai.algorithm;
 
 /**
  * 算法排序

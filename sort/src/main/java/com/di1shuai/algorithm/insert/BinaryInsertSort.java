@@ -1,6 +1,6 @@
-package com.diyishuai.algorithm.insert;
+package com.di1shuai.algorithm.insert;
 
-import com.diyishuai.algorithm.Sort;
+import com.di1shuai.algorithm.Sort;
 
 import java.util.Arrays;
 
